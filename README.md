@@ -2,6 +2,6 @@
 
 Olá ! Bem vindo ao meu livro de receitas :cookie:
 
-- Lista
-- 
+- Receitas Doces
+- Receitas Salgadas
 
